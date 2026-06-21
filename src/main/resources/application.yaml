@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: agent-demo
+  main:
+    web-application-type: none
+  ai:
+    deepseek:
+      api-key: ${DEEPSEEK_API_KEY}
+      

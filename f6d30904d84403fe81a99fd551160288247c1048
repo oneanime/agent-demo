@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "id": "3f2230f6-9a3f-4326-9daa-4d1cfd7c1798",
+    "timestamp": "2026-06-21T05:27:29.008157Z",
+    "vcs": {
+        "type": "git",
+        "revision": "f6d30904d84403fe81a99fd551160288247c1048",
+        "origin": "github",
+        "repository": "https://github.com/oneanime/agent-demo.git"
+    },
+    "tool": {
+        "name": "chatter-cli"
+    },
+    "files": []
+}

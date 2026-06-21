@@ -16,7 +16,7 @@ public class DeepseekRunCli implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        String response = chatModel.call("hello");
+        String response = chatModel.call("hello world");
 
         System.out.println(response);
     }
